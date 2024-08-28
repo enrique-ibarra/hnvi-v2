@@ -4,18 +4,19 @@
     "url": "https://www.hnvi.nl",
     "icon": "https://www.hnvi.nl/favicon.ico",
     "slug": "hnvi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 744,
+    "time": 745,
     "timeDay": 889,
     "timeWeek": 601,
     "timeMonth": 647,
     "timeYear": 728,
     "dailyMinutesDown": {
+      "2024-08-28": 0,
       "2024-01-25": 89
     }
   }
